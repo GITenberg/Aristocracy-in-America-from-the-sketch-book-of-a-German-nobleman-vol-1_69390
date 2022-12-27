@@ -1,0 +1,35 @@
+_repo: Aristocracy-in-America-from-the-sketch-book-of-a-German-nobleman-vol-1_69390
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grund, Francis J. (Francis Joseph)
+    aliases:
+    - Grund, Francis Joseph
+    - Grund, Francis P.
+    - Grund, Franz Joseph
+    birthdate: 1804
+    deathdate: 1863
+    gutenberg_agent_id: '55239'
+    url: http://www.gutenberg.org/2009/agents/55239
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Grund
+description: ''
+gutenberg_issued: '2022-11-20'
+identifiers:
+  gutenberg: '69390'
+language: en
+pgterms:marc904: https://archive.org/details/aristocracyinam01grun/page/n7/mode/2up
+pgterms:marc905: 20220816180652grund
+pgterms:marc906: '1839'
+pgterms:marc907: UK
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'UK: Richard Bentley,1839.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 1783-1865'
+- !lcc 'E151'
+- GITenberg
+title: 'Aristocracy in America: from the sketch-book of a German nobleman, vol. 1'
+url: http://www.gutenberg.org/ebooks/69390
